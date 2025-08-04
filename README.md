@@ -150,6 +150,12 @@ FC CFR 1907 Cluj SA | 12 | 12 | 0
 
 ---
 
+## 🚀 How to Compile and Run
+g++ -o football_manager Football_championship.cpp
+./football_manager
+
+---
+
 ## 🔜 To-Do / Future Improvements
 ⏳ Input Validation – Better handling of invalid inputs
 
