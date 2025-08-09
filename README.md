@@ -175,6 +175,24 @@ g++ -o football_manager Football_championship.cpp
 
 ---
 
+---
+
+## 📜 Changelog
+
+### v1.1.0 – 2025-08-09
+- Added **match simulation** feature with random goals based on team market value.
+- Implemented **automatic fixtures generation** using a round-robin algorithm (home & away matches).
+- Added **goal difference** and **goals scored** tracking in standings.
+- Implemented **case-insensitive team search**.
+- Added **CSV(Comma-Separated Values) export** for league standings.
+- Improved **input validation** for numeric and text fields.
+- Enhanced **error handling** when loading/saving data files.
+- Improved **menu navigation** for better user experience.
+
+See [CHANGELOG.md](CHANGELOG.md) for a complete list of changes and updates for each release.
+
+---
+
 ## 👨‍💻 Author
 Created by Cristi
 
