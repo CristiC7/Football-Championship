@@ -1,0 +1,43 @@
+2
+Liga 1
+16 4 0
+Universitatea Craiova,100.0,3,1,0,11,7
+Farul Constanta,95.0,3,1,0,8,5
+AFC UTA Arad,90.0,2,2,0,7,5
+Fotbal Club Rapid 1923 SA,85.0,2,1,0,5,1
+ACS Campionii Fotbal Club Arges,80.0,2,0,2,6,6
+AFC Botosani,75.0,1,2,0,5,1
+AS FC Universitatea Cluj,70.0,1,2,1,8,6
+SC Dinamo 1948 SA,65.0,1,2,1,7,7
+ACS Petrolul 52,60.0,1,1,2,4,3
+ACS Suporter Club Otelul Galati,55.0,1,1,1,4,4
+SC Fotbal Club FCSB SA,50.0,1,1,2,6,7
+FC CFR 1907 Cluj SA,45.0,1,1,2,5,7
+AFC Unirea 04 Slobozia,40.0,1,0,2,7,7
+AFC Hermannstadt,35.0,0,3,1,5,6
+FC Metaloglobus Bucuresti,30.0,0,1,3,4,11
+AFK Csikszereda,25.0,0,1,3,4,13
+0
+Liga 2
+20 1 0
+Steaua Bucuresti,50.0,1,0,0,3,1
+CS Concordia Chiajna,48.0,1,0,0,2,0
+CS Afumati,46.0,1,0,0,3,2
+SC FC Voluntari SA,44.0,1,0,0,2,1
+CSC Dumbravita,42.0,1,0,0,2,1
+Asociatia Club Sportiv Muncitoresc Resita,40.0,1,0,0,2,1
+FC Bihor Oradea,38.0,1,0,0,1,0
+AFC Chindia Targoviste,36.0,0,1,0,1,1
+ACS Sepsi OSK Sfantu Gheorghe,34.0,0,1,0,1,1
+ACS FC Corvinul Hunedoara 1921,32.0,0,1,0,0,0
+CSM Slatina,30.0,0,1,0,0,0
+Clubul Sportiv Gloria Bistrita,28.0,0,1,0,0,0
+AFC ASA Tg.Mures,26.0,0,1,0,0,0
+ACS FC Bacău,24.0,0,0,1,2,3
+CS Dinamo Bucuresti,22.0,0,0,1,1,2
+CSM Olimpia Satu Mare,20.0,0,0,1,1,2
+AFC Metalul Buzau,18.0,0,0,1,1,2
+CSC 1599 Selimbar,16.0,0,0,1,0,1
+CS Tunari,14.0,0,0,1,1,3
+AFC Campulung - Muscel 2022,12.0,0,0,1,0,2
+0
